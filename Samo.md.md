@@ -1,6 +1,6 @@
 ![Sadak samo'Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4T0UQ8uMnlwwtqUWmDmRORQrke1ZHVWzMPw&s" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="ReadImg.png" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm eng_Sadak -->
 
