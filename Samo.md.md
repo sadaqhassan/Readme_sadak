@@ -1,4 +1,4 @@
-![Sadak samo'Banner](https://raw.githubusercontent.com/sadakHassan/sadakHassan/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Sadak samo'Banner](ReadImg.png)
 
 <img alt="Night Coding" src="ReadImg.png" width='40' align="left"/><h2>Hey there! I'm Sadak Hassan</h2>
 
